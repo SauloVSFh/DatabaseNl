@@ -12,3 +12,7 @@ it has some limitations.
 ## Important considerations
 * Borehole geology is simplified to be used as an input in Modflow. User can control these features by editting the script.
 * The project is also not fully automated and it will be editted as I have time.
+
+
+## Future of this repo
+I intend to transform all of this repo in reliable functions and incorporate it to the repo Utils
